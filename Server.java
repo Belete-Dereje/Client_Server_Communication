@@ -12,7 +12,7 @@ public class Server {
             System.out.println("Server Started... Waiting for client");
 
             Socket socket = server.accept();
-            System.out.println("Client Connected");
+            System.out.println("Client Reaches There");
 
             BufferedReader in = new BufferedReader(
                     new InputStreamReader(socket.getInputStream()));
