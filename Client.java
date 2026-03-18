@@ -25,7 +25,7 @@ public class Client {
                 String request = keyboard.readLine();
 
                 if(request.equalsIgnoreCase("EXIT")){
-                    System.out.println("Client Closed.");
+                    System.out.println("Client is gone.");
                     break;
                 }
 
