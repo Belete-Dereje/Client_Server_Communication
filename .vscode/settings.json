@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "java.project.sourcePaths": ["src"],
     "java.project.outputPath": "bin",
@@ -6,3 +7,11 @@
         "/home/belete/Downloads/mysql-connector-j-9.6.0.jar"
     ]
 }
+=======
+{
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "d:\\jar for java\\mysql-connector-j-9.2.0.jar"
+  ]
+}
+>>>>>>> 84672cb9836f6b7c61bf2ca35e9a8f102e8a6f70
